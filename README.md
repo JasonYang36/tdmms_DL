@@ -1,3 +1,11 @@
+# CS534 Final Project
+
+## Authors
+Michael Yen and Jason Yang
+
+## Acknowledgements
+This is part of a final project for CS534 at Rutgers University.
+
 # Mask R-CNN for 2D Materials Detection
 This repository provides information for utilizing Deep-learning based image segmentation algorithms for detecting atomically thin two-dimensional materials in the optical microscopy images. The related publications are: 
 
