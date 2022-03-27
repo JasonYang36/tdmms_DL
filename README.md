@@ -6,7 +6,9 @@ Michael Yen and Jason Yang
 ## Acknowledgements
 This is part of Phase 3 for the class project of CS534 at Rutgers University. The original paper is [**Deep-learning-based image segmentation integrated with optical microscopy for automatically searching for two-dimensional materials**](https://www.nature.com/articles/s41699-020-0137-z) by Satoru Masubuchi, Eisuke Watanabe, Yuta Seo, Shota Okazaki, Takao Sasagawa, Kenji Watanabe, Takashi Taniguchi & Tomoki Machida.
 
-The original repository can be found here: https://github.com/tdmms
+The original repository can be found here: https://github.com/tdmms/tdmms_DL
+
+Related repositories: https://github.com/tdmms
 
 # Mask R-CNN for 2D Materials Detection
 This repository provides information for utilizing Deep-learning based image segmentation algorithms for detecting atomically thin two-dimensional materials in the optical microscopy images. The related publications are: 
